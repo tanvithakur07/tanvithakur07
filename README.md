@@ -9,7 +9,7 @@
 - Python & Java
 - JavaScript
 - HTML & CSS
-- Git & GitHub
 
 ## 🌐 Connect with me
 - LinkedIn: https://linkedin.com/in/tanvi-thakur07
+- Portfolio: https://tanvithakur-portfolio.my.canva.site/
